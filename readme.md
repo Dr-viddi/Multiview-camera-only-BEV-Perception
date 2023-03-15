@@ -8,11 +8,12 @@ Here is a list of current papers for bird's eye view perception from only multi 
 * [FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection](https://arxiv.org/abs/2301.04467)
 ### 2022
 
-### MLP based approaches
+## MLP based approaches
 
-### Depth based approaches
+## Depth based approaches
 
-### Homograph based approaches
+## Homograph based approaches
 
-### Miscellaneous
+
+## Miscellaneous
 * [Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline](https://arxiv.org/abs/2301.12511)
